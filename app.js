@@ -9,7 +9,7 @@ import {
 } from "./showWatchlist.js";
 
 // List of important API's datas.
-const API = 'Enter your personal API from TMDB';
+const API = 'api_key=d5c35e51c81488b19da7c1f572507a3d&]';
 const website = 'https://api.themoviedb.org/3/';
 const urlImg = 'https://image.tmdb.org/t/p/original';
 const fullMovieUrl = website + 'movie/popular?' + API
